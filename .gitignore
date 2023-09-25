@@ -1,0 +1,8 @@
+*.DS_Store
+/.vscode
+
+/Python/example.py
+
+__pycache__/
+
+bot_token.py
